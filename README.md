@@ -89,7 +89,7 @@
 ### 🔧 Visual Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,pytorch,arduino,git,github,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,pytorch,arduino,mysql,docker,git,github,vscode&perline=7" />
 </div>
 
 ---
