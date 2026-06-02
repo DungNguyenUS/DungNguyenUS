@@ -136,7 +136,3 @@
 <div align="center">
   <img src="https://github.com/sohap-naotp/sohap-naotp/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
