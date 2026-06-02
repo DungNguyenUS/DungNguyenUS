@@ -7,12 +7,14 @@
   
   <br>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=sohap-naotp&color=00F0FF&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=DungNguyenUS&color=00F0FF&style=flat-square" alt="Profile Views" />
   </p>
   
 </div>
 
 ---
+
+### 💻 About Me
 
 * 🎓 **Education:** Undergraduate student in **Computer Science** at Ho Chi Minh City University of Science (HCMUS).
 * 🎯 **Current Focus:** Engineering intelligent applications with **Python**, **Data Structures & Algorithms**, and embedded systems.
@@ -24,7 +26,7 @@
 
 ### 📧 Connect with Me
 <div align="center">
-  <a href="https://github.com/sohap-naotp">
+  <a href="https://github.com/DungNguyenUS">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:your-email@gmail.com">
@@ -85,7 +87,8 @@
   <img src="https://img.shields.io/badge/Autodesk_Fusion-0696D7?style=for-the-badge&logo=autodesk&logoColor=white"/>
 </div>
 
---
+---
+
 ### 🔧 Visual Stack
 
 <div align="center">
@@ -96,7 +99,7 @@
 
 ### 📊 GitHub Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohap-naotp&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DungNguyenUS&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
@@ -106,33 +109,27 @@
 <div align="center">
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sohap-naotp&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=DungNguyenUS&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
   </a>
   
   <br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sohap-naotp&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DungNguyenUS&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohap-naotp&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DungNguyenUS&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
   </a>
 
   <br>
 
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=sohap-naotp&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
+    <img src="https://streak-stats.demolab.com?user=DungNguyenUS&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
   </a>
 
 </div>
 
----
-
-### 🐍 Fun Fact: Commit Snake
-<div align="center">
-  <img src="https://github.com/DungNguyenUS/DungNguyenUS/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
